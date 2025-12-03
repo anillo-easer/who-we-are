@@ -5,7 +5,6 @@
 * Universidad de Concepción (UdeC)
 * Pontificia Universidad Católica de Chile (PUC)
 * Universidad de Chile (UCh)
-* Centro Sismológico Nacional (CSN)
 
 ## Research Team and Institutions involved in the project
 
@@ -13,7 +12,7 @@
 * Sebastián Calderón, UdeC, Deputy Director
 * Rosita Jünemann, PUC, PI
 * Pablo Heresi, UCh, PI
-* Felipe Leyton, CSN, PI
+* Felipe Leyton, CSN - UCh, PI
 
 #### Associate Researchers:
 
