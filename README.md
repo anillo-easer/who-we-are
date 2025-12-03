@@ -6,7 +6,7 @@
 * Pontificia Universidad Católica de Chile (PUC)
 * Universidad de Chile (UCh)
 
-## Research Team and Institutions involved in the project
+## Research Team:
 
 * Gonzalo Montalva, UdeC, Director
 * Sebastián Calderón, UdeC, Deputy Director
